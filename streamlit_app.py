@@ -5,6 +5,7 @@ pages = [
     st.Page("pages/indoor_nav.py", title="Indoor Map", icon="🗺️"),
     st.Page("pages/chat.py", title="Chat", icon="💬"),
     st.Page("pages/notices.py", title="Notices", icon="📋"),
+    st.Page("pages/test_credentials.py", title="Test Creds", icon="🔐"),
 ]
 
 # Create navigation
